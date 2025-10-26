@@ -1,4 +1,4 @@
-// Vemos verificar se uma string eh palíndroma
+// Vemos verificar se uma string eh palï¿½ndroma
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -16,7 +16,7 @@ int main(){
         printf("A palavra: %s eh palindroma", palavra);
     else
         printf("A palavra: %s nao eh palindroma", palavra);
-
+    
 
     return 0;
 }
